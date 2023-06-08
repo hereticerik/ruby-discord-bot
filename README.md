@@ -20,6 +20,8 @@ If the bot is running successfully, it should appear as online in your Discord s
 
 <br><br>
 
+**This Discord Bot was made for Educational Purposes as an Example**
+
 ## Notes and Usage/Features
 
 **Ping** - the bot listens for messages that begin with "ping" and responds with the bot's current response time in milliseconds. The response time is calculated by subtracting the timestamp of the message from the current time, and converting the result to milliseconds.<br>
